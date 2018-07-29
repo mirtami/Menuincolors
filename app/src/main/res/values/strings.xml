@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu in colors</string>
+    <string name="menu_black">Чёрный</string>
+    <string name="menu_white">Белый</string>
+    <string name="menu_green">Зелёный</string>
+    <string name="menu_blue">Синий</string>
+    <string name="menu_red">Красный</string>
+
+</resources>
